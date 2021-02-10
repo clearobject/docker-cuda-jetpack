@@ -1,7 +1,7 @@
 # docker-cuda-jetpack
 Docker containers for CUDA with GPU acceleration, running on Nvidia Jetson.
 
-Tested on a Jetson Nano, using Docker 18.09.2. **Make sure you're on JetPack 4.2.1.**
+Tested on a Jetson AnandTech thing, using Docker 19.03.06. **Make sure you're on JetPack 4.5.**
 
 Use the build.sh script to build the containers. Then use one of the run-....sh scripts. You'll have to enter your root password.
 

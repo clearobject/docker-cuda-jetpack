@@ -1,3 +1,4 @@
 .idea
 apt-trusted-keys
 var
+nvidia-l4t-apt-source.list
